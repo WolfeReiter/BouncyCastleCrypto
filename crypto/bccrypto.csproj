@@ -68,7 +68,7 @@
     <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
     <ConfigurationOverrideFile />
     <DefineConstants>TRACE;INCLUDE_IDEA</DefineConstants>
-    <DocumentationFile>doc\crypto.xml</DocumentationFile>
+    <DocumentationFile>bin\Release\bccrypto.xml</DocumentationFile>
     <DebugSymbols>false</DebugSymbols>
     <FileAlignment>4096</FileAlignment>
     <NoStdLib>false</NoStdLib>
