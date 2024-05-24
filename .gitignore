@@ -1,3 +1,6 @@
+## visual studio local config
+.vs/
+
 # compiled directries #
 #######################
 bin/
